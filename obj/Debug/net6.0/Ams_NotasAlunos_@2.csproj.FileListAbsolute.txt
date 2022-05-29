@@ -1,0 +1,15 @@
+E:\Programers22\Ams_NotasAlunos_22\bin\Debug\net6.0\Ams_NotasAlunos_@2.exe
+E:\Programers22\Ams_NotasAlunos_22\bin\Debug\net6.0\Ams_NotasAlunos_@2.deps.json
+E:\Programers22\Ams_NotasAlunos_22\bin\Debug\net6.0\Ams_NotasAlunos_@2.runtimeconfig.json
+E:\Programers22\Ams_NotasAlunos_22\bin\Debug\net6.0\Ams_NotasAlunos_@2.dll
+E:\Programers22\Ams_NotasAlunos_22\bin\Debug\net6.0\Ams_NotasAlunos_@2.pdb
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.csproj.AssemblyReference.cache
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.AssemblyInfoInputs.cache
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.AssemblyInfo.cs
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.csproj.CoreCompileInputs.cache
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.dll
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\refint\Ams_NotasAlunos_@2.dll
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.pdb
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\Ams_NotasAlunos_@2.genruntimeconfig.cache
+E:\Programers22\Ams_NotasAlunos_22\obj\Debug\net6.0\ref\Ams_NotasAlunos_@2.dll
